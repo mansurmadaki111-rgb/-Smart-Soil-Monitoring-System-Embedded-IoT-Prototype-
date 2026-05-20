@@ -112,7 +112,7 @@ This system provides:
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - ESP8266 Wi-Fi dashboard integration
 - Mobile app monitoring
@@ -122,7 +122,7 @@ This system provides:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **MANSUR ISAH**
 
